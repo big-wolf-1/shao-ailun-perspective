@@ -33,6 +33,7 @@
 
 ```
 SKILL.md                        # 主体，可直接阅读
+README.md                       # 本文件
 references/
   research/
     00-transcript-firsthand.md  # 4.5 小时对谈精读，本人原话摘录
@@ -42,9 +43,12 @@ references/
     04-external-views.md        # 外部视角、批评、时间线
     90-synthesis-draft.md       # 提炼初稿（已被 SKILL.md 取代，仅供追溯）
   sources/
-    transcripts/                # 对谈全文转录（249 KB）
-    articles/                   # 媒体报道与分析存档
+    transcripts/                # 对谈全文转录（249 KB）与本人发言抽取
 ```
+
+> 本地还保留了一份 `references/sources/articles/`（十几篇媒体报道的抓取存档），
+> 属于第三方页面原文，未随仓库分发；需要时按 research 文件里标注的链接自行回看。
+
 
 调研素材共约 730 KB，全部标注了一手 / 二手。**信息源黑名单**（知乎、微信公众号、百度百科）全程排除，未引用、未转述。
 
